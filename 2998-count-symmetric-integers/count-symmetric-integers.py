@@ -7,6 +7,6 @@ class Solution:
 
             if l%2 == 0:
                 half = l//2
-                if sum([int(i) for i in s[:half]]) == sum([int(i) for i in s[half:]]):
+                if sum(int(i) for i in s[:half]) == sum(int(i) for i in s[half:]):
                     res += 1
         return res
