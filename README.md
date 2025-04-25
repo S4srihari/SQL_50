@@ -1,2 +1,4 @@
 # SQL_50
-Here are my working solutions for the Sql50 problems in the Leetcode study plan.
+Hello, 
+you can find each problem and one or more approaches to solve the problem in the solution part.
+Thank you.
